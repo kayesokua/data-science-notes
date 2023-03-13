@@ -3,6 +3,7 @@ data/
 
 # Ignore macOS specific files
 *.DS_Store
+*.png
 
 # Ignore Jupyter Notebook checkpoints
 .ipynb_checkpoints/
